@@ -25,6 +25,7 @@
 - [Github Issues and Mental Health](http://bumpers.fm/e/audr171motkg00tb32sg) by Dave DeSandro
 - [The Path to Full-time Open Source](http://www.mikeperham.com/2014/10/01/the-path-to-full-time-open-source) by Mike Perham
 - [A handy guide to financial support for open source](https://github.com/nayafia/lemonade-stand) by Nadia Eghbal
+- [Controversy around Elementary OS Charging for Downloads](https://en.wikipedia.org/wiki/Elementary_OS#Controversy)
 
 ### Reference
 
